@@ -76,5 +76,10 @@ ShopSmart is a scalable and secure e-commerce backend API built using **Node.js*
 ├── package.json        # Dependencies and scripts
 └── README.md           # Project documentation
 
-**  The documentation will be updated soon.. -** 
+
+
+
+```
+
+**The documentation will be updated soon.. -** 
 
