@@ -67,7 +67,6 @@ ShopSmart is a scalable and secure e-commerce backend API built using **Node.js*
 │   ├── utils           # Utility functions and reusable logic
 │   ├── routes          # API routes
 │   ├── services        # Business logic and service layers
-│   ├── logs            # Log files for Winston logger
 │   ├── swagger         # Swagger documentation setup
 │   └── app.ts          # Application entry point
 ├── .env                # Environment variables
