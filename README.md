@@ -64,6 +64,7 @@ ShopSmart is a scalable and secure e-commerce backend API built using **Node.js*
 │   ├── entities        # Database entities using TypeORM
 │   ├── middleware      # Middleware functions (e.g., authentication, validation)
 │   ├── enums           # Enumerations for standard values (e.g., roles, statuses)
+|   ├── interface       # Provide interfaces for other module
 │   ├── utils           # Utility functions and reusable logic
 │   ├── routes          # API routes
 │   ├── services        # Business logic and service layers
@@ -75,5 +76,5 @@ ShopSmart is a scalable and secure e-commerce backend API built using **Node.js*
 ├── package.json        # Dependencies and scripts
 └── README.md           # Project documentation
 
-
+**  The documentation will be updated soon.. -** 
 
